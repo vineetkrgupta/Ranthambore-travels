@@ -1,0 +1,15 @@
+.card-img-width {
+  width: auto;
+  height: 150px;
+  max-width: 100%;
+}
+
+.card-img-width2 {
+  height: 100px;
+  max-width: 100%;
+  width: auto;
+}
+
+img {
+}
+
